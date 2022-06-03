@@ -1,4 +1,8 @@
 ## Welcome to GitHub Pages
+My name is Clement Obere and i am a senior devops engineer
+
+![MADdsbjvdLs_20220517_113855_0000](https://user-images.githubusercontent.com/90256340/171835923-5e1c9f52-0404-45cb-a827-d531d039feb6.jpg)
+
 
 You can use the [editor on GitHub](https://github.com/Kolazgf/obereclement.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
